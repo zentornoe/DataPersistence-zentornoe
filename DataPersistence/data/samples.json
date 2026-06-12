@@ -1,0 +1,12 @@
+{
+  "samples": [
+    {
+      "avgProductionTime": 49.0,
+      "id": "S-001",
+      "name": "semi",
+      "reservedQty": 0,
+      "stock": 40,
+      "yield": 0.9
+    }
+  ]
+}
